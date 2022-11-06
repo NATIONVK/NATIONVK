@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/NATIONVK/NATIONVK.git
+
+ls
+
+cd NATIONVK
+
+python 'nation script.py'
+
+
+
+
+
+
