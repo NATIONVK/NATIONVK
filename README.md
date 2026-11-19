@@ -19,16 +19,7 @@
 
 ## 01 // ABOUT ME
 
-```text
-NAME        : JOY
-HANDLE      : @NATIONVK
-INSTITUTION : DHAKA CENTRAL UNIVERSITY (DCU)
-CAMPUS      : TITUMIR CAMPUS
-DEPARTMENT  : STATISTICS
-INTERESTS   : PROGRAMMING • DATA • TECHNOLOGY
-APPROACH    : LEARN BY BUILDING
-MINDSET     : CURIOUS • PRACTICAL • ALWAYS IMPROVING
-```
+<div align="center">\n\n<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/profile-info.svg" width="100%" alt="Animated green profile information" />\n\n</div>
 
 I'm JOY, a Statistics student at **Dhaka Central University (DCU), Titumir Campus — Statistics Department**, interested in the connection between **data, mathematics, software and technology**. I enjoy learning from the fundamentals, experimenting with ideas, and turning what I learn into practical projects.
 
