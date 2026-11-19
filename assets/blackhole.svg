@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330">
-<defs><radialGradient id="bg"><stop stop-color="#07151c"/><stop offset="1" stop-color="#020403"/></radialGradient><linearGradient id="ring"><stop stop-color="#00ff88"/><stop offset=".45" stop-color="#00d9ff"/><stop offset="1" stop-color="#7cff00"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="900" height="330" rx="22" fill="url(#bg)"/>
-<g fill="#b8fff0" opacity=".65"><circle cx="90" cy="65" r="2"/><circle cx="170" cy="245" r="2"/><circle cx="740" cy="60" r="2"/><circle cx="820" cy="240" r="2"/><circle cx="650" cy="280" r="1.5"/><circle cx="300" cy="45" r="1.5"/></g>
-<g transform="translate(450 155)" filter="url(#glow)">
-<ellipse rx="285" ry="77" fill="none" stroke="url(#ring)" stroke-width="8" opacity=".9"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></ellipse>
-<ellipse rx="245" ry="57" fill="none" stroke="#00d9ff" stroke-width="3" opacity=".9"><animateTransform attributeName="transform" type="rotate" values="360;0" dur="13s" repeatCount="indefinite"/></ellipse>
-<ellipse rx="205" ry="43" fill="none" stroke="#8cff00" stroke-width="3" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite"/></ellipse>
-<circle r="77" fill="#000"><animate attributeName="r" values="74;79;74" dur="4s" repeatCount="indefinite"/></circle>
-<ellipse rx="91" ry="19" fill="none" stroke="#00eaff" stroke-width="5" opacity=".9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 470">
+<defs><radialGradient id="bg"><stop stop-color="#071923"/><stop offset="1" stop-color="#020403"/></radialGradient><linearGradient id="ring"><stop stop-color="#00ff88"/><stop offset=".45" stop-color="#00d9ff"/><stop offset="1" stop-color="#7cff00"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1100" height="470" rx="26" fill="url(#bg)"/>
+<g fill="#b8fff0" opacity=".7"><circle cx="110" cy="90" r="2"/><circle cx="210" cy="365" r="2"/><circle cx="910" cy="75" r="2"/><circle cx="1000" cy="345" r="2"/><circle cx="790" cy="410" r="1.5"/><circle cx="360" cy="48" r="1.5"/><circle cx="550" cy="35" r="1.5"/></g>
+<g transform="translate(550 220)" filter="url(#glow)">
+<ellipse rx="405" ry="115" fill="none" stroke="url(#ring)" stroke-width="12" opacity=".95"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="350" ry="85" fill="none" stroke="#00d9ff" stroke-width="5" opacity=".9"><animateTransform attributeName="transform" type="rotate" values="360;0" dur="13s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="290" ry="63" fill="none" stroke="#8cff00" stroke-width="5" opacity=".85"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite"/></ellipse>
+<circle r="108" fill="#000"><animate attributeName="r" values="103;112;103" dur="4s" repeatCount="indefinite"/></circle>
+<ellipse rx="127" ry="27" fill="none" stroke="#00eaff" stroke-width="7" opacity=".95"/>
 </g></svg>
