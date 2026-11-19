@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0df25f,100:050505&height=220&section=header&text=NATIONVK&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YEASIEN%20AHMED%20%E2%80%A2%20LEARN%20%7C%20BUILD%20%7C%20EXPLORE&descSize=16&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0df25f,100:050505&height=220&section=header&text=NATIONVK&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JOY%20%E2%80%A2%20DCU%20STATISTICS%20%E2%80%A2%20LEARN%20%7C%20BUILD%20%7C%20EXPLORE&descSize=16&descAlignY=62" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=0DF25F&center=true&vCenter=true&width=760&lines=Statistics+Student+%7C+Developer+%7C+Curious+Mind;Turning+ideas+into+useful+projects;Learning+data%2C+software+and+systems;FIND+YOUR+OWN+PATH." alt="Typing intro" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole.svg" width="100%" alt="Animated neon black hole" />
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/atomic.svg" width="100%" alt="Animated atomic orbit" />
 
 <br/>
 
@@ -16,15 +22,17 @@
 ## 01 // ABOUT ME
 
 ```text
-NAME        : YEASIEN AHMED
+NAME        : JOY
 HANDLE      : @NATIONVK
-FIELD       : STATISTICS
+INSTITUTION : DHAKA CENTRAL UNIVERSITY (DCU)
+CAMPUS      : TITUMIR CAMPUS
+DEPARTMENT  : STATISTICS
 INTERESTS   : PROGRAMMING • DATA • TECHNOLOGY
 APPROACH    : LEARN BY BUILDING
 MINDSET     : CURIOUS • PRACTICAL • ALWAYS IMPROVING
 ```
 
-I'm a Statistics student interested in the connection between **data, mathematics, software and technology**. I enjoy learning from the fundamentals, experimenting with ideas, and turning what I learn into practical projects.
+I'm JOY, a Statistics student at **Dhaka Central University (DCU), Titumir Campus — Statistics Department**, interested in the connection between **data, mathematics, software and technology**. I enjoy learning from the fundamentals, experimenting with ideas, and turning what I learn into practical projects.
 
 - 📊 Exploring statistics, probability and data analysis
 - 💻 Building Android-first apps and web projects
