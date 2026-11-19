@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
+<defs>
+ <radialGradient id="space3"><stop stop-color="#09202a"/><stop offset="1" stop-color="#010304"/></radialGradient>
+ <linearGradient id="disk3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f7ff"/><stop offset=".32" stop-color="#087bff"/><stop offset=".65" stop-color="#00ff80"/><stop offset="1" stop-color="#caff42"/></linearGradient>
+ <radialGradient id="void3"><stop stop-color="#000"/><stop offset=".8" stop-color="#000"/><stop offset="1" stop-color="#061018"/></radialGradient>
+ <filter id="glow3"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="500" rx="28" fill="url(#space3)"/>
+<g fill="#b9fff6" opacity=".65"><circle cx="110" cy="95" r="2"/><circle cx="220" cy="390" r="2"/><circle cx="820" cy="90" r="2"/><circle cx="900" cy="360" r="1.5"/><circle cx="710" cy="440" r="2"/><circle cx="370" cy="55" r="1.5"/></g>
+<g transform="translate(500 240)" filter="url(#glow3)">
+ <ellipse rx="360" ry="115" fill="none" stroke="url(#disk3)" stroke-width="22" opacity=".85"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="17s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="310" ry="90" fill="none" stroke="#00eaff" stroke-width="9" opacity=".8"><animateTransform attributeName="transform" type="rotate" values="360;0" dur="12s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="250" ry="70" fill="none" stroke="#8dff39" stroke-width="5" opacity=".9"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite"/></ellipse>
+ <path d="M-350 0 C-230 -120 220 -130 350 0 C210 120 -220 120 -350 0Z" fill="none" stroke="#a7ffff" stroke-width="2" opacity=".5"/>
+ <circle r="115" fill="url(#void3)" stroke="#00dfff" stroke-width="5"/>
+ <ellipse rx="130" ry="38" fill="none" stroke="#e8ffff" stroke-width="5" opacity=".9"/>
+ <circle cx="355" cy="0" r="12" fill="#d7ff62"><animateMotion dur="5s" repeatCount="indefinite" path="M0 0 A355 115 0 1 1 0 0"/></circle>
+</g>
+<text x="500" y="455" fill="#83ffe0" font-family="monospace" font-size="19" text-anchor="middle" letter-spacing="8">EVENT HORIZON • 3D SPACE</text>
+</svg>
