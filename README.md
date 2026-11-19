@@ -10,8 +10,6 @@
 
 <img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/atomic.svg" width="100%" alt="Animated atomic orbit" />
 
-<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole-3d.svg" width="100%" alt="3D animated black hole" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=NATIONVK&label=PROFILE+VIEWS&color=0df25f&style=for-the-badge" alt="Profile views" />
@@ -146,3 +144,5 @@ More experiments and learning projects live in my [repositories](https://github.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0df25f,100:050505&height=110&section=footer" width="100%" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole-3d.svg" width="100%" alt="3D animated black hole" />
