@@ -8,8 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole.svg" width="100%" alt="Animated neon black hole" />
 
-<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/atomic.svg" width="100%" alt="Animated atomic orbit" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=NATIONVK&label=PROFILE+VIEWS&color=0df25f&style=for-the-badge" alt="Profile views" />
