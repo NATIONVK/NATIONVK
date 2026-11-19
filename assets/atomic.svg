@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270">
+<defs><radialGradient id="space"><stop stop-color="#09242b"/><stop offset="1" stop-color="#020605"/></radialGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="270" rx="22" fill="url(#space)"/>
+<g transform="translate(450 135)" fill="none" stroke-width="3" filter="url(#g)">
+<ellipse rx="210" ry="67" stroke="#00eaff"/><ellipse rx="210" ry="67" stroke="#00ff80" transform="rotate(60)"/><ellipse rx="210" ry="67" stroke="#9b7bff" transform="rotate(120)"/>
+<g><circle cx="210" cy="0" r="9" fill="#00eaff" stroke="none"><animateMotion dur="4s" repeatCount="indefinite" path="M 0 0 A 210 67 0 1 1 0 .1"/></animateMotion></circle></g>
+<circle r="18" fill="#00d9ff" stroke="#bfffff" stroke-width="2"><animate attributeName="r" values="15;21;15" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="-105" cy="-58" r="8" fill="#9bff00" stroke="none"><animate attributeName="cx" values="-105;105;-105" dur="3s" repeatCount="indefinite"/></circle>
+</g></svg>
