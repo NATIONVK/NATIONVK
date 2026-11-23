@@ -169,7 +169,7 @@ A visual experiment with particle effects, animated heart forms and interactive 
 
 A collection of terminal and fullscreen animation experiments built around a cyber aesthetic.
 
-[OPEN REPOSITORY →](https://github.com/NATIONVK/Termux_animation)
+[OPEN REPOSITORY →](https://github.com/NATIONVK/Termux_animation-)
 
 </td>
 </tr>
