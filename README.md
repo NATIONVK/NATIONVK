@@ -39,8 +39,8 @@ I learn from the fundamentals, experiment with ideas, and build projects as a wa
 | Identity | Joy · Yeasien Ahmed |
 | Academic home | DCU · Titumir Campus · Statistics |
 | Development focus | Android-first apps, web and practical tools |
-| Data focus | Statistics, probability and data analysis |
-| Mindset | Learn deeply · Build honestly · Improve consistently |
+| Data focus | Statistics, probability, biostatistics and data analysis |
+| Research interest | Health Data Analysis · Public Health Data Analysis |\n| Mindset | Learn deeply · Build honestly · Improve consistently |
 | Motto | **FIND YOUR OWN PATH** |
 
 ---
@@ -57,7 +57,7 @@ I learn from the fundamentals, experiment with ideas, and build projects as a wa
 |:--|:--|
 | STATISTICS | Probability, statistical methods and mathematical foundations |
 | PYTHON | Programming fundamentals and data workflows |
-| DATA LAB | Data analysis, visualization and research |
+| DATA LAB | Data analysis, visualization and research |\n| HEALTH DATA | Biostatistics, health data and public-health research |
 | ANDROID | Android-first application development |
 | WEB SYSTEMS | HTML, CSS, JavaScript and web applications |
 | CYBER LAB | Cybersecurity concepts and responsible problem-solving |
@@ -67,7 +67,7 @@ I learn from the fundamentals, experiment with ideas, and build projects as a wa
 
 - Strengthen mathematics and statistical foundations.
 - Practice Python through small, working projects.
-- Learn data cleaning, analysis and visualization.
+- Learn data cleaning, analysis and visualization.\n- Start Python for Health Research and explore public-health datasets.\n- Build foundations in biostatistics and public-health data analysis.
 - Build practical Android and web applications.
 - Study cybersecurity responsibly and understand systems.
 - Document experiments and improve projects incrementally.
