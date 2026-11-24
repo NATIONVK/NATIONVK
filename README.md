@@ -203,6 +203,47 @@ Browse other prototypes, experiments and learning projects as the development jo
 
 ---
 
+## [ VISUAL EXPERIMENTS // ANIMATION LAB ]
+
+A small collection of motion studies built with lightweight animated SVGs.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**◉ BLACK HOLE**
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole.svg" width="100%" alt="Animated black hole" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**◎ ORBITAL ATOM**
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/orbital-atom.svg" width="100%" alt="Animated orbital atom" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**⌬ DNA DOUBLE HELIX**
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/dna-helix.svg" width="100%" alt="Animated DNA double helix" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**〰 NEON WAVEFORM**
+
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/neon-waveform.svg" width="100%" alt="Animated neon waveform" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## [ 05 // GITHUB ANALYTICS ]
 
 <div align="center">
