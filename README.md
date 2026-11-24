@@ -246,7 +246,7 @@ Browse other prototypes, experiments and learning projects as the development jo
 
 **Learn with curiosity. Build with purpose. Improve every day.**
 
-<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blackhole-3d.svg" width="100%" alt="3D animated black hole" />
+<img src="https://raw.githubusercontent.com/NATIONVK/NATIONVK/main/assets/blue-particle-heart.svg" width="100%" alt="Animated blue particle heart" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0df25f,100:050505&height=120&section=footer" width="100%" alt="Neon green cyber footer" />
 
